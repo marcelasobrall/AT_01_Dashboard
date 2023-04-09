@@ -1,0 +1,34 @@
+.overview-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+  }
+  
+  .overview-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .overview-card table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .overview-card th,
+  .overview-card td {
+    text-align: left;
+    padding: 0.5rem;
+    border-bottom: 1px solid #9A0794;
+  }
+  
+  .overview-card th {
+    font-weight: bold;
+    background-color: #FDDDFC;
+  }
+  
+  .overview-card tr:hover {
+    background-color: #FB9902;
+  }
+  
+  
